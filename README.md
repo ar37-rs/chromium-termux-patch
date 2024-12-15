@@ -10,7 +10,11 @@ pkg install tur-repo && pkg install chromium
 cd && pkg install wget && wget https://github.com/ar37-rs/chromium-termux-patch/releases/download/latest/chrome && chmod +x ~/chrome
 ```
 ## Usage:
-open terminal then use command like so:
+use command to start patching like so:
+```
+~/chrome patch
+```
+and start chromium:
 ```
 ~/chrome
 ```
