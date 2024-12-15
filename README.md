@@ -14,7 +14,7 @@ use command to start patching like so:
 ```
 ~/chrome patch
 ```
-and start chromium:
+and then launch chromium:
 ```
 ~/chrome
 ```
