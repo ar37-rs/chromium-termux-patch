@@ -18,14 +18,3 @@ and then launch chromium:
 ```
 ~/chrome
 ```
-
-# Using angle-android (built 2024.12.13):
-
-## Install:
-```
-cd && wget https://github.com/ar37-rs/virgl-angle-termux/releases/download/2.1.24533/angle-android_2.1.24533_aarch64.deb
-dpkg -i angle-android_2.1.24533_aarch64.deb
-```
-
-
-
